@@ -1,0 +1,17 @@
+{
+  "name": "ethereum-tokens",
+  "version": "1.0.0",
+  "description": "Presentation for Mastering Ethereum, Token chapter",
+  "main": "index.js",
+  "author": "Andrew Lord",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^1.8.2"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.12.0"
+  }
+}
